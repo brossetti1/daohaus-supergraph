@@ -556,7 +556,7 @@ module.exports.config = {
         name: "safeMinion",
         template: "safeMinionFactory-ds.yaml",
         address: "0x19b36b818380ae482256bEd9953266d9720a4212",
-        startBlock: 1721393, // TODO using Transaction Index - is this correct?
+        startBlock: 1721393,
       },
     ],
     templates: [
@@ -576,13 +576,13 @@ module.exports.config = {
         name: "v21Factory",
         template: "v21Factory-ds.yaml",
         address: "0x032865ACfc05E769902Fe90Bcc9d511875a74E66",
-        startBlock: 4864699, // TODO using Transaction Index - is this correct?
+        startBlock: 4864699,
       },
       {
         name: "safeMinion",
         template: "safeMinionFactory-ds.yaml",
         address: "0xE01F3F0F09E778e1AD83Fbdaa00e86676F317C6e",
-        startBlock: 4865989, // TODO using Transaction Index - is this correct?
+        startBlock: 4865989,
       },
        {
         name: "v22Factory",
